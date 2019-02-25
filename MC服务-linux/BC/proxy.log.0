@@ -1,0 +1,738 @@
+17:28:03 [信息] Using mbed TLS based native cipher.
+17:28:03 [信息] Using zlib based native compressor.
+17:28:03 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+17:28:03 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+17:28:03 [信息] Epoll is working, utilising it!
+17:28:03 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:28:03 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:28:03 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:28:03 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:28:03 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:28:03 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:28:03 [信息] Attempting to update plugin from null to ModuleVersion(build=1396, git=0dd538f)
+17:28:03 [信息] Attempting to Jenkins download module cmd_alert v1396
+17:28:05 [信息] Download complete
+17:28:05 [信息] Attempting to update plugin from null to ModuleVersion(build=1396, git=0dd538f)
+17:28:05 [信息] Attempting to Jenkins download module cmd_find v1396
+17:28:05 [信息] Download complete
+17:28:05 [信息] Attempting to update plugin from null to ModuleVersion(build=1396, git=0dd538f)
+17:28:05 [信息] Attempting to Jenkins download module cmd_list v1396
+17:28:06 [信息] Download complete
+17:28:06 [信息] Attempting to update plugin from null to ModuleVersion(build=1396, git=0dd538f)
+17:28:06 [信息] Attempting to Jenkins download module cmd_send v1396
+17:28:06 [信息] Download complete
+17:28:06 [信息] Attempting to update plugin from null to ModuleVersion(build=1396, git=0dd538f)
+17:28:06 [信息] Attempting to Jenkins download module cmd_server v1396
+17:28:06 [信息] Download complete
+17:28:06 [信息] Attempting to update plugin from null to ModuleVersion(build=1396, git=0dd538f)
+17:28:06 [信息] Attempting to Jenkins download module reconnect_yaml v1396
+17:28:07 [信息] Download complete
+17:28:07 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [警告] Forced host server pvp is not defined
+17:28:07 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:28:07 [信息] Listening on /0.0.0.0:25577
+17:28:15 [信息] §cCommand not found
+17:28:18 [信息] §cCommand not found
+17:29:43 [信息] Using mbed TLS based native cipher.
+17:29:43 [信息] Using zlib based native compressor.
+17:29:43 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+17:29:43 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+17:29:43 [信息] Epoll is working, utilising it!
+17:29:43 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:29:43 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:29:43 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:29:43 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:29:43 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:29:43 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:29:43 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [警告] Forced host server pvp is not defined
+17:29:43 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:29:43 [信息] Listening on /0.0.0.0:25577
+17:29:53 [信息] §cCommand not found
+17:29:54 [信息] §cCommand not found
+17:29:56 [信息] §cCommand not found
+17:38:12 [信息] §cCommand not found
+17:39:59 [信息] Using mbed TLS based native cipher.
+17:39:59 [信息] Using zlib based native compressor.
+17:39:59 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+17:40:00 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+17:40:00 [信息] Epoll is working, utilising it!
+17:40:00 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+17:40:00 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+17:40:00 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+17:40:00 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+17:40:00 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+17:40:00 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+17:40:00 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [警告] Forced host server pvp is not defined
+17:40:00 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+17:40:00 [信息] Listening on /0.0.0.0:25577
+17:40:02 [信息] §cCommand not found
+17:40:04 [信息] Closing listener [id: 0x533cce03, L:/0:0:0:0:0:0:0:0%0:25577]
+17:40:04 [信息] Closing pending connections
+17:40:04 [信息] Disconnecting 0 connections
+17:40:04 [信息] Saving reconnect locations
+17:40:04 [信息] Disabling plugins
+17:40:04 [信息] Closing IO threads
+18:42:36 [信息] Using mbed TLS based native cipher.
+18:42:36 [信息] Using zlib based native compressor.
+18:42:36 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+18:42:36 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+18:42:36 [信息] Epoll is working, utilising it!
+18:42:36 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+18:42:36 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+18:42:36 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+18:42:36 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+18:42:36 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+18:42:36 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:42:37 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:42:37 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:42:37 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:42:37 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:42:37 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:42:37 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:42:37 [严重] Exception in thread "main" 
+18:42:37 [严重] java.lang.IllegalArgumentException: Server lobby (priority 0) is not defined
+18:42:37 [严重] 	at com.google.common.base.Preconditions.checkArgument(Preconditions.java:359)
+18:42:37 [严重] 	at net.md_5.bungee.conf.Configuration.load(Configuration.java:135)
+18:42:37 [严重] 	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:267)
+18:42:37 [严重] 	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:56)
+18:42:37 [严重] 	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+18:43:42 [信息] Using mbed TLS based native cipher.
+18:43:42 [信息] Using zlib based native compressor.
+18:43:42 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+18:43:42 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+18:43:42 [信息] Epoll is working, utilising it!
+18:43:42 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+18:43:42 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+18:43:42 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+18:43:42 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+18:43:42 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+18:43:42 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+18:43:42 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [警告] Forced host server pvp is not defined
+18:43:42 [警告] Forced host server pvp is not defined
+18:43:42 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+18:43:42 [信息] Listening on localhost/127.0.0.1:25588
+18:43:42 [信息] Listening on localhost/127.0.0.1:25577
+18:51:01 [信息] §cCommand not found
+18:51:03 [信息] §cCommand not found
+18:51:08 [信息] §cCommand not found
+18:51:08 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+18:51:09 [信息] §cCommand not found
+20:14:03 [信息] Using mbed TLS based native cipher.
+20:14:03 [信息] Using zlib based native compressor.
+20:14:03 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+20:14:03 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+20:14:03 [信息] Epoll is working, utilising it!
+20:14:03 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:14:03 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:14:03 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:14:03 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:14:03 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:14:03 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:14:03 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [警告] Forced host server pvp is not defined
+20:14:03 [警告] Forced host server pvp is not defined
+20:14:03 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:14:03 [信息] Listening on localhost/127.0.0.1:25588
+20:14:03 [信息] Listening on localhost/127.0.0.1:25577
+20:19:17 [信息] Using mbed TLS based native cipher.
+20:19:17 [信息] Using zlib based native compressor.
+20:19:17 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+20:19:17 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+20:19:17 [信息] Epoll is working, utilising it!
+20:19:17 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:19:17 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:19:17 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:19:17 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:19:17 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:19:17 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:19:17 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [警告] Forced host server pvp is not defined
+20:19:17 [警告] Forced host server pvp is not defined
+20:19:17 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:19:17 [信息] Listening on localhost/127.0.0.1:25577
+20:19:17 [信息] Listening on localhost/127.0.0.1:25588
+20:24:22 [信息] Closing listener [id: 0x20992d13, L:/127.0.0.1:25577]
+20:24:22 [信息] Closing listener [id: 0xaed4b537, L:/127.0.0.1:25588]
+20:24:22 [信息] Closing pending connections
+20:24:22 [信息] Disconnecting 0 connections
+20:24:23 [信息] Saving reconnect locations
+20:24:23 [信息] Disabling plugins
+20:24:23 [信息] Closing IO threads
+20:25:20 [信息] Using mbed TLS based native cipher.
+20:25:20 [信息] Using zlib based native compressor.
+20:25:20 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+20:25:20 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+20:25:20 [信息] Epoll is working, utilising it!
+20:25:20 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:25:20 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:25:20 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:25:20 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:25:20 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:25:20 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:25:20 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [警告] Forced host server pvp is not defined
+20:25:20 [警告] Forced host server pvp is not defined
+20:25:20 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:25:20 [信息] Listening on localhost/127.0.0.1:25577
+20:25:20 [信息] Listening on localhost/127.0.0.1:25588
+20:29:24 [信息] Closing listener [id: 0x4427ad65, L:/127.0.0.1:25577]
+20:29:24 [信息] Closing listener [id: 0x95ab5397, L:/127.0.0.1:25588]
+20:29:24 [信息] Closing pending connections
+20:29:24 [信息] Disconnecting 0 connections
+20:29:24 [信息] Saving reconnect locations
+20:29:24 [信息] Disabling plugins
+20:29:24 [信息] Closing IO threads
+20:41:08 [信息] Using mbed TLS based native cipher.
+20:41:08 [信息] Using zlib based native compressor.
+20:41:08 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+20:41:09 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+20:41:09 [信息] Epoll is working, utilising it!
+20:41:09 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:41:09 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:41:09 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:41:09 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:41:09 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:41:09 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:41:09 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [警告] Forced host server pvp is not defined
+20:41:09 [警告] Forced host server pvp is not defined
+20:41:09 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:41:09 [信息] Listening on /0.0.0.0:25577
+20:41:09 [信息] Listening on /0.0.0.0:25588
+20:52:13 [信息] Closing listener [id: 0x4db69944, L:/0:0:0:0:0:0:0:0%0:25577]
+20:52:13 [信息] Closing listener [id: 0x345db1b1, L:/0:0:0:0:0:0:0:0%0:25588]
+20:52:13 [信息] Closing pending connections
+20:52:13 [信息] Disconnecting 0 connections
+20:52:14 [信息] Saving reconnect locations
+20:52:14 [信息] Disabling plugins
+20:52:14 [信息] Closing IO threads
+20:52:19 [信息] Using mbed TLS based native cipher.
+20:52:19 [信息] Using zlib based native compressor.
+20:52:19 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+20:52:19 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+20:52:19 [信息] Epoll is working, utilising it!
+20:52:19 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+20:52:19 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+20:52:19 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+20:52:19 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+20:52:19 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+20:52:19 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:52:19 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [警告] Forced host server pvp is not defined
+20:52:19 [警告] Forced host server pvp is not defined
+20:52:19 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+20:52:19 [信息] Listening on /0.0.0.0:25577
+20:52:19 [信息] Listening on /0.0.0.0:25588
+20:59:58 [信息] Closing listener [id: 0x74ccbb87, L:/0:0:0:0:0:0:0:0%0:25577]
+20:59:58 [信息] Closing listener [id: 0xdf78189d, L:/0:0:0:0:0:0:0:0%0:25588]
+20:59:58 [信息] Closing pending connections
+20:59:58 [信息] Disconnecting 0 connections
+20:59:59 [信息] Saving reconnect locations
+20:59:59 [信息] Disabling plugins
+20:59:59 [信息] Closing IO threads
+21:00:03 [信息] Using mbed TLS based native cipher.
+21:00:03 [信息] Using zlib based native compressor.
+21:00:03 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+21:00:03 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+21:00:03 [信息] Epoll is working, utilising it!
+21:00:03 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:00:03 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:00:03 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:00:03 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:00:03 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:00:03 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:00:03 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [警告] Forced host server pvp is not defined
+21:00:03 [警告] Forced host server pvp is not defined
+21:00:03 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:00:03 [信息] Listening on /0.0.0.0:25566
+21:00:03 [信息] Listening on /0.0.0.0:25565
+21:08:46 [信息] Closing listener [id: 0x2961e397, L:/0:0:0:0:0:0:0:0%0:25565]
+21:08:46 [信息] Closing listener [id: 0x18ba35dc, L:/0:0:0:0:0:0:0:0%0:25566]
+21:08:46 [信息] Closing pending connections
+21:08:46 [信息] Disconnecting 0 connections
+21:08:47 [信息] Saving reconnect locations
+21:08:47 [信息] Disabling plugins
+21:08:47 [信息] Closing IO threads
+21:08:51 [信息] Using mbed TLS based native cipher.
+21:08:51 [信息] Using zlib based native compressor.
+21:08:51 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+21:08:52 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+21:08:52 [信息] Epoll is working, utilising it!
+21:08:52 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:08:52 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:08:52 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:08:52 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:08:52 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:08:52 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:08:52 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [警告] Forced host server pvp is not defined
+21:08:52 [警告] Forced host server pvp is not defined
+21:08:52 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:08:52 [信息] Listening on /0.0.0.0:25588
+21:08:52 [信息] Listening on /0.0.0.0:25577
+21:09:10 [信息] §cCommand not found
+21:36:50 [信息] §cCommand not found
+21:36:52 [信息] Closing listener [id: 0x863cf9f8, L:/0:0:0:0:0:0:0:0%0:25588]
+21:36:52 [信息] Closing listener [id: 0x1304a83f, L:/0:0:0:0:0:0:0:0%0:25577]
+21:36:52 [信息] Closing pending connections
+21:36:52 [信息] Disconnecting 0 connections
+21:36:52 [信息] Saving reconnect locations
+21:36:52 [信息] Disabling plugins
+21:36:53 [信息] Closing IO threads
+21:37:01 [信息] Using mbed TLS based native cipher.
+21:37:01 [信息] Using zlib based native compressor.
+21:37:01 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+21:37:02 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+21:37:02 [信息] Epoll is working, utilising it!
+21:37:02 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:37:02 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:37:02 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:37:02 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:37:02 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:37:02 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:37:02 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [警告] Forced host server pvp is not defined
+21:37:02 [警告] Forced host server pvp is not defined
+21:37:02 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:02 [信息] Listening on /0.0.0.0:25577
+21:37:02 [警告] Could not bind to host /0.0.0.0:25577
+io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: 地址已在使用
+	at io.netty.channel.unix.Errors.newIOException(Errors.java:122)
+	at io.netty.channel.unix.Socket.bind(Socket.java:287)
+	at io.netty.channel.epoll.AbstractEpollChannel.doBind(AbstractEpollChannel.java:684)
+	at io.netty.channel.epoll.EpollServerSocketChannel.doBind(EpollServerSocketChannel.java:70)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1358)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:501)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:486)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:1019)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:258)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:366)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:335)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:909)
+	at java.lang.Thread.run(Thread.java:748)
+21:37:25 [信息] Using mbed TLS based native cipher.
+21:37:25 [信息] Using zlib based native compressor.
+21:37:25 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+21:37:25 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+21:37:25 [信息] Epoll is working, utilising it!
+21:37:25 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:37:25 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:37:25 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:37:25 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:37:25 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:37:25 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:37:25 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [警告] Forced host server pvp is not defined
+21:37:25 [警告] Forced host server pvp is not defined
+21:37:25 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:25 [信息] Listening on /0.0.0.0:25577
+21:37:25 [警告] Could not bind to host /0.0.0.0:25577
+io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: 地址已在使用
+	at io.netty.channel.unix.Errors.newIOException(Errors.java:122)
+	at io.netty.channel.unix.Socket.bind(Socket.java:287)
+	at io.netty.channel.epoll.AbstractEpollChannel.doBind(AbstractEpollChannel.java:684)
+	at io.netty.channel.epoll.EpollServerSocketChannel.doBind(EpollServerSocketChannel.java:70)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1358)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:501)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:486)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:1019)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:258)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:366)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:335)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:909)
+	at java.lang.Thread.run(Thread.java:748)
+21:37:42 [信息] Using mbed TLS based native cipher.
+21:37:42 [信息] Using zlib based native compressor.
+21:37:42 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+21:37:43 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+21:37:43 [信息] Epoll is working, utilising it!
+21:37:43 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:37:43 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:37:43 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:37:43 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:37:43 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:37:43 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:37:43 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [警告] Forced host server pvp is not defined
+21:37:43 [警告] Forced host server pvp is not defined
+21:37:43 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:37:43 [信息] Listening on /0.0.0.0:25577
+21:37:43 [警告] Could not bind to host /0.0.0.0:25577
+io.netty.channel.unix.Errors$NativeIoException: bind(..) failed: 地址已在使用
+	at io.netty.channel.unix.Errors.newIOException(Errors.java:122)
+	at io.netty.channel.unix.Socket.bind(Socket.java:287)
+	at io.netty.channel.epoll.AbstractEpollChannel.doBind(AbstractEpollChannel.java:684)
+	at io.netty.channel.epoll.EpollServerSocketChannel.doBind(EpollServerSocketChannel.java:70)
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.bind(AbstractChannel.java:562)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.bind(DefaultChannelPipeline.java:1358)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeBind(AbstractChannelHandlerContext.java:501)
+	at io.netty.channel.AbstractChannelHandlerContext.bind(AbstractChannelHandlerContext.java:486)
+	at io.netty.channel.DefaultChannelPipeline.bind(DefaultChannelPipeline.java:1019)
+	at io.netty.channel.AbstractChannel.bind(AbstractChannel.java:258)
+	at io.netty.bootstrap.AbstractBootstrap$2.run(AbstractBootstrap.java:366)
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:163)
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:404)
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:335)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$5.run(SingleThreadEventExecutor.java:909)
+	at java.lang.Thread.run(Thread.java:748)
+21:49:08 [信息] Closing listener [id: 0x27a2d19f, L:/0:0:0:0:0:0:0:0%0:25577]
+21:49:08 [信息] Closing pending connections
+21:49:08 [信息] Disconnecting 0 connections
+21:49:09 [信息] Saving reconnect locations
+21:49:09 [信息] Disabling plugins
+21:49:09 [信息] Closing IO threads
+21:49:15 [信息] Using mbed TLS based native cipher.
+21:49:15 [信息] Using zlib based native compressor.
+21:49:15 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+21:49:15 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+21:49:15 [信息] Epoll is working, utilising it!
+21:49:15 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:49:15 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:49:15 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:49:15 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:49:15 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:49:15 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:49:15 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [警告] Forced host server pvp is not defined
+21:49:15 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:49:15 [信息] Listening on /0.0.0.0:25565
+21:51:00 [信息] Closing listener [id: 0xe8b6d080, L:/0:0:0:0:0:0:0:0%0:25565]
+21:51:00 [信息] Closing pending connections
+21:51:00 [信息] Disconnecting 0 connections
+21:51:00 [信息] Saving reconnect locations
+21:51:00 [信息] Disabling plugins
+21:51:00 [信息] Closing IO threads
+21:51:17 [信息] Using mbed TLS based native cipher.
+21:51:17 [信息] Using zlib based native compressor.
+21:51:17 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+21:51:17 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+21:51:17 [信息] Epoll is working, utilising it!
+21:51:17 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:51:17 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:51:17 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:51:17 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:51:17 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:51:17 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:51:17 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:17 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:17 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:17 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:17 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:17 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:17 [警告] Forced host server pvp is not defined
+21:51:17 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:17 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:17 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:17 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:17 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:17 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:51:18 [信息] Listening on /0.0.0.0:25565
+21:51:56 [信息] [/192.168.3.104:53029] <-> InitialHandler has connected
+21:52:07 [信息] [/192.168.3.104:53047] <-> InitialHandler has connected
+21:52:15 [信息] [/192.168.3.104:53057] <-> InitialHandler has connected
+21:52:15 [信息] [vaWU] <-> ServerConnector [lobby] has connected
+21:53:06 [信息] [vaWU] disconnected with: §fServer closed
+21:53:06 [信息] [vaWU] <-> DownstreamBridge <-> [lobby] has disconnected
+21:53:06 [信息] [vaWU] -> UpstreamBridge has disconnected
+21:54:49 [信息] [/192.168.3.104:53219] <-> InitialHandler has connected
+21:55:00 [信息] [vaWU] <-> InitialHandler has connected
+21:55:00 [信息] [vaWU] <-> ServerConnector [lobby] has connected
+21:55:00 [信息] [vaWU] disconnected with: §cKicked whilst connecting to lobby: §fIf you wish to use IP forwarding, please enable it in your BungeeCord config as well!
+21:55:00 [信息] [vaWU] <-> ServerConnector [lobby] has disconnected
+21:55:01 [信息] [vaWU] -> UpstreamBridge has disconnected
+21:55:52 [信息] Closing listener [id: 0x4b38ab74, L:/0:0:0:0:0:0:0:0%0:25565]
+21:55:52 [信息] Closing pending connections
+21:55:52 [信息] Disconnecting 0 connections
+21:55:52 [信息] Saving reconnect locations
+21:55:52 [信息] Disabling plugins
+21:55:52 [信息] Closing IO threads
+21:55:56 [信息] Using mbed TLS based native cipher.
+21:55:56 [信息] Using zlib based native compressor.
+21:55:56 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+21:55:56 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+21:55:56 [信息] Epoll is working, utilising it!
+21:55:57 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+21:55:57 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+21:55:57 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+21:55:57 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+21:55:57 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+21:55:57 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:55:57 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [警告] Forced host server pvp is not defined
+21:55:57 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+21:55:57 [信息] Listening on /0.0.0.0:25565
+21:56:26 [信息] [/192.168.3.104:53257] <-> InitialHandler has connected
+21:56:29 [信息] [vaWU] <-> InitialHandler has connected
+21:56:29 [信息] [vaWU] <-> ServerConnector [lobby] has connected
+22:04:06 [警告] [vaWU] <-> DownstreamBridge <-> [lobby] - read timed out
+22:04:06 [信息] [vaWU] disconnected with: §fReadTimeoutException : null
+22:04:07 [信息] [vaWU] <-> DownstreamBridge <-> [lobby] has disconnected
+22:04:07 [信息] [vaWU] -> UpstreamBridge has disconnected
+22:04:41 [信息] [/192.168.3.104:53430] <-> InitialHandler has connected
+22:05:05 [信息] [/192.168.3.104:53447] <-> InitialHandler has connected
+22:05:17 [信息] [/192.168.3.104:53451] <-> InitialHandler has connected
+22:05:18 [信息] [vaWU] <-> ServerConnector [lobby] has connected
+22:06:16 [信息] [vaWU] <-> ServerConnector [shengcun] has connected
+22:06:31 [信息] [vaWU] <-> ServerConnector [shengcun] has disconnected
+22:06:56 [信息] [vaWU] <-> ServerConnector [shengcun] has connected
+22:06:57 [信息] [vaWU] <-> ServerConnector [shengcun] has disconnected
+22:20:04 [信息] Closing listener [id: 0xf30343b9, L:/0:0:0:0:0:0:0:0%0:25565]
+22:20:04 [信息] Closing pending connections
+22:20:04 [信息] Disconnecting 1 connections
+22:20:04 [信息] [vaWU] disconnected with: §f[Proxy] Proxy restarting.
+22:20:05 [信息] [vaWU] -> UpstreamBridge has disconnected
+22:20:05 [信息] [vaWU] <-> DownstreamBridge <-> [lobby] has disconnected
+22:20:05 [信息] Saving reconnect locations
+22:20:05 [信息] Disabling plugins
+22:20:06 [信息] Closing IO threads
+09:12:21 [信息] Using mbed TLS based native cipher.
+09:12:21 [信息] Using zlib based native compressor.
+09:12:21 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+09:12:21 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+09:12:21 [信息] Epoll is working, utilising it!
+09:12:22 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+09:12:22 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+09:12:22 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+09:12:22 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+09:12:22 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+09:12:22 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:12:22 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [警告] Forced host server pvp is not defined
+09:12:22 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:12:22 [信息] Listening on /0.0.0.0:25565
+09:12:26 [信息] Closing listener [id: 0x82198a39, L:/0:0:0:0:0:0:0:0%0:25565]
+09:12:26 [信息] Closing pending connections
+09:12:26 [信息] Disconnecting 0 connections
+09:12:26 [信息] Saving reconnect locations
+09:12:26 [信息] Disabling plugins
+09:12:26 [信息] Closing IO threads
+09:14:50 [信息] Using mbed TLS based native cipher.
+09:14:50 [信息] Using zlib based native compressor.
+09:14:50 [信息] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.13-SNAPSHOT:0dd538f:1396
+09:14:50 [信息] Not on Windows, attempting to use enhanced EpollEventLoop
+09:14:50 [信息] Epoll is working, utilising it!
+09:14:50 [信息] Discovered module: ModuleSpec(name=cmd_alert, file=modules/cmd_alert.jar, provider=JenkinsModuleSource())
+09:14:50 [信息] Discovered module: ModuleSpec(name=cmd_find, file=modules/cmd_find.jar, provider=JenkinsModuleSource())
+09:14:50 [信息] Discovered module: ModuleSpec(name=cmd_list, file=modules/cmd_list.jar, provider=JenkinsModuleSource())
+09:14:50 [信息] Discovered module: ModuleSpec(name=cmd_send, file=modules/cmd_send.jar, provider=JenkinsModuleSource())
+09:14:50 [信息] Discovered module: ModuleSpec(name=cmd_server, file=modules/cmd_server.jar, provider=JenkinsModuleSource())
+09:14:50 [信息] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules/reconnect_yaml.jar, provider=JenkinsModuleSource())
+09:14:50 [信息] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [信息] Loaded plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [信息] Loaded plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [信息] Loaded plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [信息] Loaded plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [信息] Loaded plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [警告] Forced host server pvp is not defined
+09:14:50 [信息] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [信息] Enabled plugin cmd_find version git:cmd_find:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [信息] Enabled plugin cmd_server version git:cmd_server:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [信息] Enabled plugin cmd_alert version git:cmd_alert:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [信息] Enabled plugin cmd_send version git:cmd_send:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [信息] Enabled plugin cmd_list version git:cmd_list:1.13-SNAPSHOT:0dd538f:1396 by SpigotMC
+09:14:50 [信息] Listening on /0.0.0.0:25565
+09:22:54 [信息] [/192.168.3.104:50300] <-> InitialHandler has connected
+09:22:55 [警告] Event ProxyPingEvent(connection=[/192.168.3.104:50300] <-> InitialHandler, response=ServerPing(version=ServerPing.Protocol(name=BungeeCord 1.8.x-1.13.x, protocol=404), players=ServerPing.Players(max=100, online=0, sample=null), description=§f§1Another Bungee server, modinfo=ServerPing.ModInfo(type=FML, modList=[]))) took 267,327,931ns to process!
+09:23:27 [信息] [/192.168.3.104:50301] <-> InitialHandler has connected
+09:23:36 [信息] [vaWU] <-> InitialHandler has connected
+09:23:36 [信息] [vaWU] <-> ServerConnector [lobby] has connected
+09:24:04 [信息] [vaWU] <-> ServerConnector [shengcun] has connected
+09:24:05 [信息] [vaWU] <-> DownstreamBridge <-> [lobby] has disconnected
+09:24:51 [信息] [vaWU] <-> ServerConnector [lobby] has connected
+09:24:51 [信息] [vaWU] <-> DownstreamBridge <-> [shengcun] has disconnected

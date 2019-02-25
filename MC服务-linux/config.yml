@@ -1,0 +1,101 @@
+#选择您的BungeeCord实例是否支持Forge客户端。支持mod
+forge_support: false
+#官网没介绍但是我想在最多允许三次连接尝试的意思
+connection_throttle_limit: 3
+#
+ip_forward: true
+#在关闭所有连接之前，BungeeCord代理应该无响应多长时间。
+timeout: 30000
+#正版验证当然不要啦
+online_mode: false
+#当玩家写入bungeecord命令时，该命令也包含在bungeecord控制台中。
+log_commands: false
+
+#BC这个组件来监听服务的配置
+#与下面servers对应起来
+listeners:
+#- motd: '&1Another Bungee server'
+##  query_port: 25577
+#  # tab显示的范围GLOBAL_PING为全部的服务器一般用来作为登陆服使用
+#  tab_list: GLOBAL_PING
+#  query_enabled: false
+#  proxy_protocol: false
+#  forced_hosts:
+#    pvp.md-5.net: pvp
+#  ping_passthrough: false
+#  priorities:
+#  - lobby
+#  bind_local_address: true
+##  host: 0.0.0.0:25577
+#  max_players: 100
+#  tab_size: 60
+#  force_default_server: false
+- motd: '&1Another Bungee server'
+  query_port: 25565
+  # tab显示的范围SERVER为子服务器
+  tab_list: SERVER
+  #为false就完事了
+  query_enabled: false
+  #为false就完事了
+  proxy_protocol: false
+  #描述：允许重定向。如果域md-5.net的pvp.md-5.net子域已加入，它将绕过默认服务器并转到配置中声明的服务器，在这种情况下直接连接到pvp服务器。注意：这要求您通过主域名的主动态DNS将子域转发到您的BungeeCord地址。
+  forced_hosts:
+    pvp.md-5.net: pvp
+  ping_passthrough: false
+  priorities:
+  - lobby
+  #   没用为true完事了
+  bind_local_address: true
+  #  主机地址
+  host: 0.0.0.0:25565
+  max_players: 100
+  #  键盘上tab可以显示的玩家数
+  tab_size: 60
+  #  如果为true，则在加入服务器时，玩家将始终连接到默认服务器。如果为false，则玩家将加入他们上次连接的服务器。
+  force_default_server: false
+
+
+
+#在最近一次连接尝试防止攻击后允许客户端再次连接之前的时间延迟（以毫秒为单位）。
+connection_throttle: 4000
+#格式是组，然后是每个玩家，然后是他/她所在的每个组。默认情况下，“md_5”被赋予“admin”组，其提供权限部分定义的权限。每个玩家都有默认值。仅添加需要超过默认权限的玩家。
+groups:
+  vaWU:
+  - admin
+#记录玩家ping
+log_pings: true
+#玩家限制==真正的限制-1是无限
+player_limit: -1
+#这使服务器将连接玩家的IP发送给Mojang
+prevent_proxy_connections: false
+#网络压缩阈值不用管
+network_compression_threshold: 256
+#注入命令 不用管
+inject_commands: false
+#不让用的命令
+disabled_commands:
+- disabledcommandhere
+#描述：用于统计目的，请不要删除或更改代码。这是一个随机生成的数字，用于提供统计数据。统计信息是在MCStats上收集的匿名使用数据包。这是你永远不应该编辑的东西，所以请留下它！
+stats: 332a16a3-7454-4821-866e-308c8c621dff
+#权限
+permissions:
+  default:
+  - bungeecord.command.server
+  - bungeecord.command.list
+  admin:
+  - bungeecord.command.alert
+  - bungeecord.command.end
+  - bungeecord.command.ip
+  - bungeecord.command.reload
+#服务
+servers:
+  lobby:
+    motd: '&1Just login'
+    address: localhost:25566
+    restricted: false
+  shengcun:
+    motd: '&1Just another BungeeCord - Forced Host'
+    address: localhost:25567
+    restricted: false
+#注意：限制会阻止玩家加入服务器，除非他们拥有bungeecord.server.[servername]权限
+#描述：在此部分中，您将列出将通过BungeeCord实例连接到的所有服务器。建议使用小写字母作为服务器的名称。

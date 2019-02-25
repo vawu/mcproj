@@ -1,0 +1,30 @@
+[22:04:18] [Server thread/INFO]: Starting minecraft server version 1.8
+[22:04:18] [Server thread/INFO]: Loading properties
+[22:04:19] [Server thread/INFO]: Default game type: SURVIVAL
+[22:04:19] [Server thread/INFO]: Generating keypair
+[22:04:20] [Server thread/INFO]: Starting Minecraft server on *:25567
+[22:04:27] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-33d5de3 (MC: 1.8) (Implementing API version 1.8-R0.1-SNAPSHOT)
+[22:04:28] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:04:28] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:04:28] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:04:28] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:04:28] [Server thread/INFO]: Preparing level "world"
+[22:04:28] [Server thread/INFO]: Preparing start region for level 0 (Seed: 2105475584748342048)
+[22:04:30] [Server thread/INFO]: Preparing spawn area: 3%
+[22:04:31] [Server thread/INFO]: Preparing spawn area: 33%
+[22:04:31] [Server thread/INFO]: Preparing start region for level 1 (Seed: 2105475584748342048)
+[22:04:33] [Server thread/INFO]: Preparing spawn area: 10%
+[22:04:34] [Server thread/INFO]: Preparing spawn area: 21%
+[22:04:35] [Server thread/INFO]: Preparing spawn area: 33%
+[22:04:39] [Server thread/INFO]: Preparing spawn area: 46%
+[22:04:40] [Server thread/INFO]: Preparing spawn area: 48%
+[22:04:41] [Server thread/INFO]: Preparing spawn area: 51%
+[22:04:42] [Server thread/INFO]: Preparing spawn area: 60%
+[22:04:43] [Server thread/INFO]: Preparing spawn area: 67%
+[22:04:44] [Server thread/INFO]: Preparing spawn area: 73%
+[22:04:45] [Server thread/INFO]: Preparing spawn area: 94%
+[22:04:45] [Server thread/INFO]: Preparing start region for level 2 (Seed: 2105475584748342048)
+[22:04:46] [Server thread/INFO]: Preparing spawn area: 50%
+[22:04:47] [Server thread/INFO]: Preparing spawn area: 59%
+[22:04:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:04:49] [Server thread/INFO]: Done (21.270s)! For help, type "help" or "?"
